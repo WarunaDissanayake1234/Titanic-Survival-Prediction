@@ -18,7 +18,7 @@ This project implements a Logistic Regression model to predict survival on the T
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/WarunaDissanayake1234/Titanic-Survival-Prediction.git
+   https://github.com/WarunaDissanayake1234/Titanic-Survival-Prediction.git
    ```
 
 2. **Install Dependencies:**
